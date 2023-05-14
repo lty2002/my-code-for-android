@@ -1,8 +1,8 @@
 # my-code-for-android
 
----
-
 为解决湖北工业大学校园通行码在微信小程序中开启不便的问题，本项目使用安卓程序实现二维码的生成。
+
+[iOS版本](https://github.com/lty2002/my-code-for-ios)
 
 ## 使用指南
 1. 下载[最新Release](https://github.com/lty2002/my-code-for-android/releases/tag/latest)中的apk文件，并安装
