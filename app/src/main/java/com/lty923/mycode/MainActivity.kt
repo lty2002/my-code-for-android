@@ -59,7 +59,7 @@ class MainActivity : ComponentActivity() {
             // 实例化request
             val client = OkHttpClient()
             val request = Request.Builder()
-                .url("http://wx.rayroccloud.com/WXAPI/GetQr?userid=$userId&card=$card&Tenid=1248985250630078464&PojNo=9")
+                .url("http://wxmicro.rayroccloud.com/WXAPI/GetQr?userid=$userId&card=$card&Tenid=1248985250630078464&PojNo=9")
                 .get()
                 .build()
 
